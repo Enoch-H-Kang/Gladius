@@ -1,7 +1,7 @@
-# ERM-IRL
+# Gladius
 
 ## Overview
-This repository contains code for running **Zurcher** and **Gym-based** environments, generating data, and training reinforcement learning models. It supports:
+This repository contains code for running Gladius (https://arxiv.org/abs/2502.14131) for **Zurcher** and **Gym-based** environments, generating data, and training reinforcement learning models. It supports:
 - **Zurcher bus engine replacement simulation (bus folder):** A standard benchmark in Econometrics literature.
 - **Gym Environments (gym folder):** Training and evaluating policies using **Stable-Baselines3**.
 ---
