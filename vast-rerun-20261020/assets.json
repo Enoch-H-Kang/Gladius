@@ -1,0 +1,53 @@
+{
+  "bootstrap": {
+    "name": "bootstrap-small.zip",
+    "bytes": 2867396,
+    "sha256": "d68187d995237f4009c987db3f531a589bf649096406a8d6e13f49e9c858ecee"
+  },
+  "s2_e2": {
+    "bytes": 30496025,
+    "sha256": "ed0ac6d933855e1c77c3a3680f4636cf849862c2d519ff6c105770b7f454cc7b",
+    "parts": [
+      {
+        "name": "s2-e2.part00",
+        "bytes": 4000000,
+        "sha256": "6ba4600dfc61b6c99411a6023d142e45fcbd564430e57010a8a1528ed2e3ce02"
+      },
+      {
+        "name": "s2-e2.part01",
+        "bytes": 4000000,
+        "sha256": "f16a3de7773cef6bd5bc56084a004865b25813a8571bb65b0dc164270f620e8e"
+      },
+      {
+        "name": "s2-e2.part02",
+        "bytes": 4000000,
+        "sha256": "bc106f429b2f1462f069bdd1ececf14acfd9ff14290ea654e59d091a2dacae67"
+      },
+      {
+        "name": "s2-e2.part03",
+        "bytes": 4000000,
+        "sha256": "9ac78c90f1353cf0c6225c0ba925ffedfe15e6861be9d3614e63bf529b75934e"
+      },
+      {
+        "name": "s2-e2.part04",
+        "bytes": 4000000,
+        "sha256": "e1dd5fc6379377d81e364040e6034fe604fc6e119273494f6aad777d0b1a686e"
+      },
+      {
+        "name": "s2-e2.part05",
+        "bytes": 4000000,
+        "sha256": "7bd56a7b258e4634efafc33969ba718dd952c30021c9786ecd52763972ffc437"
+      },
+      {
+        "name": "s2-e2.part06",
+        "bytes": 4000000,
+        "sha256": "e04bcc0bd59548728a378ad105c987c367080b30e8ed792ea28b6994b62d3f2e"
+      },
+      {
+        "name": "s2-e2.part07",
+        "bytes": 2496025,
+        "sha256": "f91fec1e58fc9e321d7a6fb43041a37e885a47553cae5522349f248ee64807c5"
+      }
+    ]
+  }
+}
