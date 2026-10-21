@@ -1,8 +1,8 @@
 {
   "bootstrap": {
     "name": "bootstrap-full.zip",
-    "bytes": 4063532,
-    "sha256": "748f36b5f64a86c350db4e8f72d1aec1b4a2fdd9cbff766075252879a9382af1"
+    "bytes": 4065009,
+    "sha256": "56787c590f40d35146f2c7d9d47b70d1dcd16ccbf18ad7e4b4db804227cf2279"
   },
   "oracle_k31": {
     "bytes": 210358303,
